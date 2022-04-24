@@ -1,4 +1,4 @@
-# AJAX Exercises
+# AJAX Präsentation
 
 Diese Unterlagen wurden für eine Präsentation beim [IT Club Oberland](https://itclub.blog/2017/11/22/it-club-workshop-mit-herrn-huber/) erstellt.
 
